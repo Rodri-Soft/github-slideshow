@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+las patitas de los perritos huelen a chetos <3
 Utiliza la flecha hacia la izquierda para volver!
